@@ -1,0 +1,6 @@
+{
+  "name": "Quà 20/10 · Vườn Hoa & Bức Thư Yêu Thương",
+  "description": "Một bó hoa nở rộ, những lời chúc ngọt ngào và bức thư tay gửi riêng đến người phụ nữ đặc biệt nhân ngày Phụ nữ Việt Nam 20/10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
